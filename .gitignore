@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Visual Studio Code
+.vscode/
+*.code-workspace
+
+# Other
+*.log
+*.swp
+*.bak
+*.tmp
+*.DS_Store
